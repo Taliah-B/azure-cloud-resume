@@ -1,0 +1,39 @@
+*{
+    border: 0;
+    padding: 0;
+    margin: 0;
+    }
+body {
+    background-color: #b6c0bb;
+    font-family: 'Trebuchet MS', sans-serif;
+}
+
+nav {
+    background-color: #394040;
+    padding: 12px;
+}
+.navbar a {
+    align: left;
+    color: #F7F5F0;
+    text-align: center;
+    padding: 9px 13px;
+    text-decoration: none;
+    font-size: 17px;
+  }  
+  .navbar a:hover {
+    background-color: #7A998A;
+    border-radius: 6px;
+    padding: 9px 13px;
+    text-decoration: none;
+    font-size: 18px;
+  }  
+.navbar a.fa {
+    float: right;   
+  }
+.active {
+    background: #7A998A;
+}
+
+h1 {
+    color: black;
+}
